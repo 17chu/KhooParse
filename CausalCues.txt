@@ -1,0 +1,2705 @@
+assure
+bring
+bring (+on) : be experienced by
+bring (+prep;particle)
+bring (about)
+bring (down+on)
+bring (on)
+catalyze : happen or speed up
+cause
+compel : exist
+effect
+engender
+ensure
+ensure (+that)
+eventuate in
+ferment
+generate
+ignite
+incite
+kindle
+lead to
+occasion
+precipitate
+present (+to;+with) : have or be experienced
+prompt
+provoke
+rekindle
+result in
+spark
+trigger
+call (forth) : appear
+contrive
+enforce
+engineer
+get (+v-ing) : be
+have (+adj) : be
+have (+v-ed)
+mediate
+put (+prep;particle)
+render (+adj) : be
+stir (up)
+foment
+force (+prep;particle)
+get (+adj) : be
+get (+v-ed) : be
+strike (+adj) : be
+work (+adj;+prep;particle) : be
+wreak
+banish : leave
+blackmail (+into)
+bludgeon (+into)
+boot (out) : leave
+browbeat (+to-v;+into)
+can : leave a job
+cashier : leave the armed forces
+cast (out) : leave
+coerce (+to-v;+into)
+coerce : into obedience
+compel (+to-v)
+compel (+to;+into)
+condemn (+to)
+condemn (+to-v)
+conscript : serve in the army, navy or air
+force
+constrain (+to-v)
+defrock : leave the priesthood
+deport : to leave the country
+depose : leave a position of power
+detail (+to-v)
+disbar : leave the legal profession
+dismiss : leave a job
+displace : leave a certain place
+doom (+to-v)
+dragoon (+into)
+drive (off) : leave
+drum (+out) : leave
+eject : leave
+evict : leave
+exile : leave
+expatriate : leave a country
+expel : leave
+extradite : go back
+flood (out) : leave
+flush (+prep;particle) : leave
+force (+out_of;+from)
+force (+to-v;+into)
+frogmarch : move forward with arms held
+firmly behind
+high-pressure (+to-v;+into)
+intimidate (+into)
+kick (out) : leave
+make (+v)
+march (+to;+into;particle) : go on foot
+muzzle : keep silent
+obligate (+to-v)
+oblige (+to-v)
+oust : leave
+pension (off) : retire
+pressgang (+to-v;+into)
+railroad (+into)
+repatriate : go back to their own country
+rout (out) : leave
+run (+out_of) : leave
+rusticate : leave
+sack : leave a job
+sandbag (+into)
+shanghai (+to-v;+into)
+slap (down) : into silence or inactivity
+smoke (out) : come out
+spur : go faster
+terrorize (+into)
+turf (out) : leave
+awe (+into)
+bamboozle (+into) : to
+beat (down) : reduce the price
+bribe (+into;+to-v)
+cajole (+to-v;+into)
+coax (+prep;particle)
+coax (+to-v;+into)
+con (+into)
+convert : accept a particular religion or belief
+deceive (+into)
+decoy (+into) : be in
+delude (+into)
+determine (+to-v)
+discharge : leave
+disembark : disembark
+dupe (+into)
+embolden (+to-v) : to
+entice (+to-v;+prep;particle)
+fob (+off_with) : accept
+fool (+into)
+galvanize (+into)
+get (+to-v)
+give (+to-v)
+goad (+into)
+goad : do something
+have (+v)
+hoodwink (+into)
+hustle (+to;+into)
+impel (+to)
+impel (+to-v)
+incite (+to-v)
+induce (+to-v)
+inspire (+to-v)
+instigate (+to-v)
+inveigle (+into)
+jockey (+into;particle)
+jolly (+into)
+lead (+to-v)
+mislead : think or act mistakenly
+persuade (+to-v;+into)
+precipitate (+into)
+reason (+into)
+rope (in) : help in an activity
+rush (+into) : act quickly
+scare (+prep;particle)
+seduce (+prep;particle)
+seduce : have sex
+shame (+into)
+soft-soap (+into)
+stampede (+into) : to
+stimulate (+to-v)
+suborn : do wrong
+sweet-talk
+talk (+into)
+touch (+for) : give
+trap (+into) : to
+trick (+into)
+urge (+prep;particle)
+admit : enter
+allow (+prep;particle) : come or go
+allow (+to-v)
+enable (+to-v)
+let (+v)
+let (+into) : come into
+let (down) : go down
+let (in) : come in
+let (off) : avoid something
+let (out) : leave
+permit (+to-v)
+set (down) : get out
+suffer (+to-v)
+allow
+enable
+permit
+tolerate
+commence
+ignite : start to burn
+inaugurate
+initiate
+instigate
+kindle : start to burn
+light : start to burn
+rekindle : start to burn again
+set (+v-ing)
+start
+turn (on) : start flowing
+bear
+beget
+begin
+bioengineer
+bore
+brew
+bring (forth)
+build
+burrow
+chisel
+churn (out)
+cobble
+cofound
+coin
+compile
+compose
+concoct
+constitute
+construct
+contour
+contrive
+craft
+crank (out)
+crayon
+create
+crochet
+dash (off)
+dig
+draft
+draw (up)
+empanel
+erect
+erect : be erected
+establish
+excavate
+fabricate
+fashion
+fix
+forge
+form
+formulate
+found
+generate
+grind (out)
+hew
+impose
+inspire
+institute
+invent
+knit
+knock (together)
+knock (up)
+lithograph
+machine
+make
+manufacture
+mass-produce
+mint
+mix
+mould
+nibble (+prep;particle)
+originate
+pitch : be erected
+prefabricate
+prepare
+print
+procreate
+produce
+put (forth)
+put (together)
+put (up)
+rebuild
+reconstruct
+recreate
+reduplicate
+regenerate
+remake
+rig (up)
+rough (out)
+rub (+prep;particle)
+scare (up)
+sculpturebuoy : continue to float
+buoy : remain high
+continue : continue
+continue : start again
+scythe
+secrete
+set (up) : be erected
+spawn
+spin (off)
+start
+synthesize
+tailor (+prep;particle)
+tear (off)
+throw (together)
+tool
+toss (off)
+tunnel
+wear (+prep;particle)
+weave
+buoy : continue to float
+buoy : remain high
+continue : continue
+continue : start again
+hold (+prep;particle) : remain in position
+keep (+v-ing) : continue
+maintain : remain in good condition
+nourish : remain alive
+perpetuate : continue to exist
+preserve : be preserved
+preserve : remain unchanged
+propagate : continue to exist or increase by
+producing descendants
+sustain : keep up the strength, spirits or
+determination
+sustain : remain in existence
+activate : become active
+activate : happen more quickly
+actuate : act
+arouse : become active
+arouse : become awake
+assemble : be assembled
+awake : become active or conscious
+awake : become awake
+awaken : become awake
+ginger (up) : become more active and
+effective
+install : ready for use
+mobilize : be ready to start working
+reactivate : become active again
+ready : be ready
+reanimate : come back to life; have new
+strength or courage
+recharge : be charged up again
+resurrect : come back to life
+resuscitate : come back to life
+revitalize : have new strength or power;
+come back to life
+revive : become conscious or healthy again
+revive : come back into use or existence
+revivify : have new life or health
+rouse : become awake
+rouse : become more active or interested
+wake : become awake
+waken : become awake
+annihilate : be destroyed
+assassinate : die
+behead : die by removing head
+blast (+prep) : be destroyed
+blast (particle) : be destroyed
+blow (away) : die
+break (down) : be destroyed
+bump (off) : die
+burn (off) : be destroyed
+burn : burn
+butcher : die
+crucify : die
+decapitate : die by removing the head
+decimate : be destroyed
+demolish : be destroyed
+destroy : be destroyed
+destroy : die
+devastate : be destroyed
+disband : breakup and separate
+disintegrate : be destroyed
+dismantle : be dismantled
+dispel : disappear
+dissolve : end or break up
+drown : die
+dynamite : be destroyed
+electrocute : die
+eliminate : die
+execute : die
+exterminate : die
+extinguish : be put out
+extirpate : be destroyed
+finish (off) : die
+garrotte : die
+gas : die
+guillotine : die by removing head
+gun (down) : die
+gut : be destroyed
+incinerate : be destroyed
+kill (off) : die
+kill : die
+knock (down) : be destroyed
+level : be destroyed
+liquidate : die
+make away with : die
+massacre : die
+mow (down) : die
+murder : die
+obliterate : be destroyed
+off : die
+overlie : die
+poison : die or be harmed with poison
+pull (down) : be destroyed
+put (down) : die
+put (out) : be put out
+quench : be put out
+ravage : be destroyed
+raze : be destroyed
+root (out) : be destroyed
+ruin : be destroyed
+ruin : be ruined
+sabotage : be destroyed
+shoot (down) : be destroyed
+slaughter : die
+slay : die
+snuff : be put out
+strangle : die
+strike (+prep;particle) : be removed from
+strike (down) : die
+suffocate : die by suffocating
+tear (down) : be destroyed
+tear (up) : be destroyed
+trash : be destroyed
+wreck : be destroyed
+zap : be destroyed
+abate
+abolish : end
+abort : end
+abrogate : end
+annul : end
+arrest : end
+axe : end
+balk
+beat : fail
+break (+of) : be cured of
+cancel : end
+conclude : come to an end
+defeat : fail
+demobilize : end
+desegregate : end racial segregation
+disable : be no longer able to operate
+disable : be unable to use his/her body
+properly
+discontinue : end
+dish : fail
+dismantle : end
+do away with : end
+eliminate : end
+end : end
+eradicate : end
+flag (down) : stop
+freeze : be unable to work
+fuse : stop working
+halt : halt
+incapacitate : be incapacitated
+kill : end
+liquidate : liquidate
+overturn : end
+paralyse : stop working
+phase (out) : end gradually
+prorogue : end
+quell : end
+rein (back) : stop
+repeal : end
+rescind : end
+revoke : end
+sever : end
+snuff (out) : end
+stall : stall
+stamp (out) : end
+staunch : stop discharging blood
+stem : stop flowing
+still : end
+stop : end
+stub (out) : stop burning
+suppress : end
+suspend : not take part in a team for a time
+suspend : stop
+sweep (away) : end
+terminate : end
+turn (off) : stop flowing
+turn (out) : stop working
+deactivate : be inactive or ineffective
+decommission : no longer be in service
+invalidate : be invalid
+negate : have no effect
+neutralize : have no effect
+nullify : have no effect
+nullify : have no legal force
+void : have no effect
+bring (+through) : come through
+successfully
+bring (off) : succeed
+complete : be complete
+consummate : be complete
+effectuate : be successfully carried out
+execute : be performed
+finalize : be complete
+implement : be performed
+pull (off) : succeed
+push (through) : be successful or accepted
+railroad : pass or be implemented
+rerun : be held again
+solemnize : be performed
+stage : be performed
+stitch (up) : be complete
+bark : have the skin rubbed off
+bone : have the bones removed
+comb (out) : be removed
+core : have the core removed
+cross (off;out) : be removed
+de-ice : be free of ice
+debeak : have the beak removed
+debone : have the bones removed
+declaw : have the claw removed
+defrost : be free of ice; thaw
+defrost : be free of steam
+defuse : have the fuse removed
+dehumidify : have moisture removed
+delete : be removed
+demagnetize : be free of magnetic qualities
+demagnetize : be free of sounds
+demist : be free of steam
+denude : have the protective covering
+removed
+desalinate : be free of salt
+descale : be free of scale
+detoxify : have the poison removed
+disafforest : have the forest removed
+disarm : have the weapons removed
+disembowel : have the bowels removed
+disentangle : have knots removed
+dislodge : be dislodged
+dismast : have the masts removed
+dismember : have the limbs torn off
+divest (+of) : be removed of
+edit (out) : be removed
+efface : be removed
+erase : be removed
+eviscerate : have the bowels removed
+excise : be removed
+exhume : be removed from a grave
+expunge : be removed
+fillet : have the bones removed
+filter (out) : be removed
+free (+from;+of) : be free of
+gut : have the guts removed
+iron (out) : be removed
+mop (+prep;particle) : be removed from
+mop (up) : be removed
+peel (+prep;particle) : be removed from
+peel : have their peel removed
+pluck : have the feathers removed
+put (away) : be removed
+remit : be removed
+remove : be removed
+rid (+of) : be free of
+rinse (out) : be removed
+scale : have the scales removed
+scrape (+prep;particle) : be removed from
+scratch (+from;particle) : be removed from
+shear : have the wool removed
+shell : have the shells removed
+shuck : have the outer covering removed
+siphon : be removed
+skim : be removed
+skin : have the skin removed
+slip (off) : be removed
+soak (particle) : be removed
+sop (up) : be removed
+sponge : be removed
+strike (off) : be removed
+strike (out) : be removed
+strip (+of) : be removed of
+strip : have the dress removed
+take (off) : be removed
+take : be removed
+tease (out) : be removed
+throw (off) : be removed
+unburden : be relieved
+uncover : have the cover removed
+undress : have the dress removed
+unpick : have the stitches removed
+unsaddle : have the saddle removed
+unscrew : have the screws removed
+unseat : be removed from a position
+weed : be free of weeds
+wipe (+prep;particle) : be removed from
+chime : chime
+clack : make quick sharp sounds
+clang : make a loud ringing sound
+clank : make a short loud sound
+clash : make a loud sound
+clatter : sound a clatter
+clink : make a slight high sound
+crackle : make small sharp sounds
+honk : make a honk
+hoot : make a hoot
+jangle : make a sharp sound
+jingle : sound with a jingle
+peal : sound loudly
+pop : make a sharp explosive sound
+rattle : make quick sharp sounds
+ring : ring
+rustle : rustle
+splat : make a splat
+ting : make a high ringing sound
+tinkle : make light metallic sounds
+toll : ring slowly and repeatedly
+toot : make a warning sound with a horn
+twang : sound a twang
+aircondition : be equipped with an
+air-conditioner
+bevel : have a bevel
+blister : form blisters
+blot : have blots
+breach : have an opening
+bridge : have a bridge across
+bruise : have a bruise
+butter : have butter on it
+caption : have a caption
+channel : have a channel
+chip : be chipped
+colonize : have a colony
+crease : crease
+crick : have a crick
+crinkle : crinkle
+curtain : have a curtain
+cut : have a cut
+dent : have a dent
+dibble : have holes
+dot : have a dot
+edge (+with) : have an edge of
+equip : have proper equipment
+feather : have feathers
+flaw : have a flaw
+floor : have a floor
+flute : have long thin inward curves
+fray : have loose threads
+fuel : have fuel
+furnish : have furniture
+furrow : have furrows
+gash : have a large deep wound
+glaze : have a shiny surface
+graze : have a graze
+hallmark : have a hallmark
+headline : have a headline
+heap (+with) : have a large amount of
+hedge : be surrounded by a hedge
+heel : have a heel
+hem : have a hem
+hole : have a hole
+hollow (out) : have a hollow place
+illustrate : have illustrations
+indent : have a dent
+ink : have ink on it
+label (+n;+adj) : have label
+label : have a label
+ladder : develop a ladder
+lard : have small pieces of bacon
+line : have lines
+manure : have manure
+mark : have marks
+militarize : have military forces
+nick : have a nick
+notch : have a notch
+number : have numbers
+pattern : have a pattern
+perforate : have holes
+pile (+with) : have a large amount of
+pit : have pits on the surface
+pivot : have a pivot
+pleat : have pleats
+powder : have powder on the surface
+puncture : get a puncture
+re-cover : have a new cover
+rebind : have a new binding
+reface : have a new surface
+reline : have a new lining
+remould : have a new rubber covering
+resurface : have a new surface
+retread : have a new rubber covering
+rewire : have new electric wires
+ridge : have ridges
+rifle : have grooves
+rig : have necessary ropes and sails
+ring : have a ring around the leg
+ripple : form ripples
+roof (in) : have a roof
+roof : have a roof
+root : form roots
+rouge : have rouge
+rut : have ruts
+sand : have sand
+sandbag : have sandbags
+scallop : have scallops
+scar : have a scar
+seal : have a seal
+snick : have a small cut
+square : have straight lines and right angles
+stockade : have a stockade around it
+string : have strings
+tag : have a tag
+top (up) : have more liquid
+tunnel : have a tunnel
+ulcerate : have an ulcer
+upholster : have comfortable coverings
+weight : have weights
+wound : have a wound
+fluoridate : contain fluoride
+garnish : contain garnish
+impregnate (+with) : be impregnated with
+include (+in) : be included
+inject (+with) : have in the body
+leaven : contain leaven
+lime : contain lime
+load : contain bullets
+nest : be nested
+poison : contain poison
+salt : contain salt
+spice : contain spice
+spike : contain alcohol
+stir (+prep;particle) : be mixed in
+sugar : contain sugar
+sweeten : contain some sugar or sweetness
+transistorize : contain transistors
+anodize : be coated with a protective film
+bandage : be bound round with bandage
+bedaub : be dirty with something wet and
+sticky
+besmear (+with) : be covered with
+board : be covered with boards
+bury : be buried
+cake (+with) : be covered with
+cap (+with) : be covered with
+carpet : be covered with a carpet
+cloud : become covered with clouds
+clutter : be cluttered
+coat : be covered with
+concrete : be covered with concrete
+cover : be covered
+creosote : be painted with creosote
+deluge : be covered with water
+dip : be immersed
+drape (+in;+with) : be covered with
+drape (+over;+round) : cover
+dredge (+with;+in) : be covered with
+drown : be covered with water
+duck : be immersed in water
+electrogalvanize : be plated with zinc
+electroplate : have a coating
+emulsion : be painted with emulsion paint
+enamel : be covered with enamel
+encapsulate : be encased in a capsule
+encase : be covered completely
+enshroud (+in) : be covered with
+envelop (+in) : be covered completely with
+fleck : be covered with flecks
+flood : flood
+flour : be covered with flour
+fog : become covered with fog
+fold (+prep;particle) : be wrapped in
+frost : appear as if covered with frost
+frost : become covered with frost
+fur : become covered with fur
+galvanize : be covered with a metal
+gift-wrap : be decoratively wrapped
+gild : be covered with a coat of gold
+glaze : be covered with a glaze
+grass : be covered with grass
+gravel : be covered with gravel
+grease : be covered with grease
+grit : be covered with grit
+heap (+on) : be piled up on
+heap (+prep;particle) : be piled up
+ice : be covered with icing
+immerse : be immersed in a liquid
+intersperse (+among;+throughout;+in) : be
+interspersed in
+intersperse (+with) : be interspersed with
+japan : be covered with a black shiny surface
+lacquer : be covered with lacquer
+lag : be insulated
+laminate : be covered with thin metal or
+plastic sheets
+lather : be covered with lather
+line : be lined
+litter (+with) : be covered with
+metal : be covered with small stones
+metallize : be coated or impregnated with a
+metal
+mire : be dirty with mud
+mist : become covered with mist
+muck : be covered with muck
+muddy : become dirty with mud
+mulch : be covered with mulch
+net : be covered with a net
+nickel : be covered with a thin layer of
+nickel
+oil : be coated with oil
+paint : be painted
+paper : be covered with wallpaper
+patch : be covered or mended with a patch
+pile (+onto) : cover
+placard : be covered with placards
+plaster (+on;+over) : stick on
+plaster (+with) : be covered with
+plaster : be covered with plaster
+plate : be covered thinly with a metal
+prepack : be wrapped up
+prime : be covered with a first layer of paint
+rubberize : be coated or impregnated with
+rubber
+rust : become covered with rust
+scatter (+on;+over) : be scattered over
+scatter (+with) : be covered with
+scatter : scatter
+shower (+on) : be poured on
+shower (+with) : be covered
+silver : be covered with silver
+slate : be covered with slates
+smear (+on;+with) : be smeared on/with
+smother (+with;+in) : be covered with
+smudge : become dirty with a smudge
+soak : be covered by a liquid
+soap : be covered with soap
+souse : be immersed in salted water
+spatter (+prep) : be scattered on
+spatter (+with) : be covered
+splash (+on) : cover
+splash (+with) : be covered with
+sprinkle (+prep) : be scattered over
+sprinkle (+with) : be covered with
+sprinkle : be scattered over
+steep (+in) : be immersed in
+strap : have bandages tied round it
+streak : be covered with streaks
+strew (+over;+on) : be scattered over
+strew (+with) : be covered with
+stud : be covered with studs
+submerge : be immersed in water
+surface : be covered with a hard material
+swaddle : be wrapped in many coverings
+tar : be covered with tar
+tarmac : be covered with tarmac
+thatch : be covered with thatch
+tile : be covered with tiles
+tip (+with) : be covered at one end with
+turf : be covered with turf
+twist (+round) : be wound round
+varnish : be covered with varnish
+veil : be covered with a veil
+veneer : be covered with a veneer
+wallpaper : be covered with wallpaper
+wax : be covered with wax
+whitewash : be covered with whitewash
+wind (+round) : be wound round
+wrap (+around;+round;particle) : wrap
+round
+wrap : be wrapped
+brick (up) : be filled or enclosed with bricks
+overcrowd : be filled with too many people
+pack (+with) : be filled with
+refill : be full again
+refuel : be filled again with fuel
+replenish : be filled again
+saturate (+with) : be filled with
+stuff (+with) : be filled with
+supercharge (+with) : be filled with
+adorn : be decorated
+bedeck : be decorated
+blazon (+on) : be emblazoned on
+blazon (+with) : be decorated
+deck (+in) : be decorated
+deck (+with) : be decorated
+decorate (+with) : be decorated
+emblazon (+on) : be emblazoned on
+emblazon (+with) : be decorated
+emboss (+on) : be embossed on
+emboss (+with) : be decorated
+festoon (+with) : be decorated
+imprint (+on) : be a mark on
+ornament (+with) : be decorated
+panel : be decorated with panels
+redecorate : have new decoration
+spangle : have a shining effect; be decorated
+with shining objects
+tattoo : be marked with a tattoo
+tattoo : be tattooed on the skin
+trim : be decorated
+black : be black
+blacken : become black
+blanch : become colorless
+bleach : become white
+bronze : have the color of bronze
+brown : become browner
+char : become black
+color (+adj) : have color
+color : have color
+colorize : be in color
+crimson : become crimson
+discolor : change color
+dye : have a different color
+dye (+adj) : have color
+paint (+adj) : have color
+redden : become red
+stain : change in color
+stain : have a stain
+tan : become brown
+tint : have a slight color
+whiten : become white
+yellow : become yellow
+accouter : have equipment or clothes
+advance (+n) : have
+advance (+to) : be in the possession of
+allocate (+n) : have
+allocate (+to) : be in the possession of
+allot (+n) : have
+allot (+to) : belong to
+arm : have weapons
+award (+n) : have
+award (+to) : be given to
+bear (+n) : have
+bequeath (+n) : have
+bequeath (+to) : be in the possession of
+bestow (+on;+upon) : be in the possession of
+build (+n) : have
+bung (+n) : have
+cede (+to) : be in the possession of
+chuck (+n) : have
+confer (+on;+upon) : belong to
+deal : be in the possession of
+delegate (+to) : be in the possession of
+deliver (+to) : be in the possession of
+empower : have the power or legal right
+endow : have money
+energize : have energy
+enfranchise : have the right to vote
+fit (out) : be equipped
+fix (+n) : have
+franchise : have a franchise
+furnish (+with) : have
+give (+to;+n) : be given to
+give (back;+back_to) : be in the possession
+of
+grant (+n) : have
+grant (+to) : be in the possession of
+hand (+n) : have
+hand (+over_to) : have
+hand (+prep;particle) : be in the possession
+of
+invest (+with) : have
+leave (+n) : have
+lend (+n) : have
+lend (+to) : be in the possession of
+loan (+n) : have
+loan (+to) : be in the possession of
+mandate : have a mandate
+motorize : have motor vehicles
+outfit : have an outfit
+permit : have
+post (+n) : have
+provision : have food and supplies
+rearm : have weapons
+rehouse : have a better home
+reward : have a reward
+saddle (+with) : have
+sell (+n) : have
+sell (+to) : be in the possession of
+set (+n) : have
+set (+with) : have
+sling (+n) : have
+supply (+to) : be in the possession of
+supply (+with) : have
+take (+n) : have
+ticket : have a ticket
+toss : have
+vest (+with) : legally have
+visa : have a visa
+addle : become confused
+affect : have feelings
+aggravate : feel angry
+agitate : feel anxious and nervous
+ail : feel pain
+alarm : be alarmed
+alert : become alert
+alienate : become unfriendly or
+unsympathetic
+amaze : be amazed
+amuse : be amused
+anger : feel angry
+annoy : be annoyed
+antagonize : become an enemy
+appall : be shocked
+astound : be astounded
+awe : feel awe
+baffle : be baffled
+befuddle : be confused
+bias : be prejudiced
+blind : be unable to understand
+chagrin : feel chagrin
+chill : feel fear
+chloroform : become unconscious
+comfort : be comforted
+concuss : have a concussion
+confuse : be confused
+contaminate : become impure
+content : feel contented
+convince : be completely certain about
+something
+cow : be cowed
+crease : laugh
+daunt : lose courage
+daze : be dazed
+delight : be delighted
+demoralize : lose confidence
+depress : feel depressed
+desolate : be desolate
+discomfit : feel uncomfortable
+discompose : become worried
+disconcert : be disconcerted
+discontent : be discontented
+disgust : feel disgust
+dishearten : lose courage or hope
+disillusion : free from an illusion
+dismay : feel dismay
+disorientate : be disorientated
+displease : feel displeasure
+dispose (+to) : have a feeling of; tend
+towards
+disquiet : feel disquiet
+distract : be distracted
+distress : feel distress
+disturb : be anxiously dissatisfied
+divert : be diverted
+drag (down) : feel ill
+dumbfound : be dumbfounded
+electrify : be greatly excited
+embarrass : feel embarrassed
+embitter : have bitter feelings
+embolden : have more courage
+enchant : be enchanted
+endear (+to) : be liked by
+enrage : feel very angry
+enrapture : feel great joy
+entertain : be entertained
+enthuse : be enthusiastic
+estrange : be estranged
+evoke : be remembered
+exasperate : feel angry
+excite
+excite : be excited
+exhaust : tire out
+exhilarate : feel cheerful
+familiarize : become well informed
+fatigue : become tired
+faze : be surprised
+fidget : fidget
+flurry : be nervous and uncertain
+fluster : be flustered
+fray : become worn out
+fret : fret
+frighten : be frightened
+frustrate : feel frustrated
+fuddle : be in a fuddle
+gall : feel angry
+gladden : feel glad
+grieve : grieve
+gripe : feel sharp pain
+habituate (+to) : become habituated to
+harden : become unkind or lacking in human
+feelings
+hearten : feel more hopeful
+horrify : feel horror
+humanize : be human or humane
+humble : lose pride
+humiliate : feel ashamed
+hush : hush
+hypnotize : be in a state of hypnosis
+idle : idle
+incense : feel very angry
+infuriate : feel very angry
+infuse (+into) : be filled with a quality
+infuse (+with) : feel
+inhibit : be inhibited
+inspire (+in) : be felt by
+inspire (+to) : have the desire and ability to
+take effective action; feel eager and
+confident
+inspire (+with) : feel
+interest (+in) : be interested in
+intimidate : feel fear
+intoxicate : be excited
+intoxicate : become intoxicated
+inure (+to) : be used to
+invigorate : feel fresh and healthy
+irritate : be impatient
+knock (out) : be unconscious
+lash : have violent feelings
+lighten : become more cheerful
+lull : sleep or become less active
+madden : feel angry
+mesmerize : be in a state of hypnosis
+mystify : be mystified
+narcotize : be unconscious
+nark : feel angry
+nettle : feel angry
+nonplus : be nonplused
+numb : be numb
+offend : be displeased
+ossify : ossify
+outrage : feel outrage
+overawe : be quiet because of respect and
+fear
+overpower : become helpless
+overwhelm : become completely helpless
+pacify : be in peace
+pacify : become calm, quiet and satisfied
+pain : feel pain in the mind
+panic : feel panic
+peeve : feel angry and offended
+perplex : be perplexed
+perturb : worry
+petrify : be in a state of shock
+pique : feel angry
+placate : be placated
+play (off) : be in opposition
+please : be pleased
+politicize : develop an interest in or
+understanding of politics
+prejudice : have a prejudice
+provoke : feel angry
+psych (out) : be frightened
+psych (up) : become keen and ready
+puzzle : be puzzled
+quieten : become quiet
+rack : feel great pain or anxiety
+ravish : feel delight
+reassure : be reassured
+reconcile (+to) : accept
+reconcile : be reconciled
+refresh : be refreshed
+rejuvenate : feel or look young and strong
+again
+relax : relax
+repel : have strong feelings of dislike
+revolt : feel sick and shocked
+rile : feel very angry
+rock : be very surprised
+ruffle : be upset
+sadden : feel sad
+scare : be scared
+sedate : become sleepy or calm
+shatter : be shocked
+shock : be shocked
+sicken : have sick feelings of dislike
+silence : become silent
+sober : become serious or thoughtful
+solace : be comforted
+spook : be afraid
+stagger : feel shocked disbelief
+startle : be startled
+stultify : become stupid
+stun : be unconscious
+stun : feel surprise
+stupefy : be unable to think or feel
+stupefy : feel surprise
+subjugate : be obedient
+surprise : feel surprise
+tantalize : be tantalized
+tense : become tense
+terrify : feel fear
+thrill : feel a thrill
+tire (out) : become completely tired
+tire : become tired
+titillate : feel excitement
+torment : suffer great pain
+tranquilize : become tranquil
+tranquillize : become tranquil
+transfix : be unable to move or think
+traumatize : be deeply shocked
+trouble : be worried
+unbalance : become slightly mad
+unhinge : become mad
+unnerve : lose confidence
+unsettle : feel unsettled
+uplift : feel more cheerful or spiritual
+vex : feel angry
+weary : become weary
+worry : feel anxious
+worry : worry
+wow : feel admiration
+brainwash : change beliefs
+disabuse : not have a wrong belief
+enlighten : be enlightened
+inculcate (+in;+into) : be fixed in the mind
+of
+inculcate (+with) : have
+instil : be instilled in the mind of
+lead (on) : believe something that is untrue
+persuade : believe
+sway : change their mind
+talk (round) : change their mind
+turn (+against) : become opposed to
+anesthetize : be unable to feel pain
+asphyxiate : be unable to breathe
+blind : blind
+bring (+out_in) : suffer a skin condition
+choke : have difficulty breathing
+dazzle : be unable to see
+deafen : become deaf
+debilitate : become weak
+enervate : become weak
+enfeeble : become weak
+feed (up) : become fatter and healthier
+hurt : feel pain
+impregnate : become pregnant
+induce : give birth
+inebriate : become drunk
+irritate : become painful
+lame : become lame
+nauseate : feel nausea
+overcome : become helpless
+pain : feel pain
+paralyse : be paralysed
+prick : feel light sharp pain
+prickle : feel a pricking sensation
+prostrate : lose strength
+smart : smart
+starve : starve
+tone : become stronger and healthier
+torture : suffer great pain
+wind : be breathless
+accelerate : accelerate
+accumulate : accumulate
+amplify : increase
+augment : increase
+boost : increase
+broaden : become broader
+bump (up) : increase
+cube : increase by cubing the amount
+deepen : be deeper or increase
+dilate : dilate
+distend : swell
+double : increase to twice the amount
+elongate : be longer
+embellish : be more beautiful
+enhance : increase
+enlarge : enlarge
+enliven : be more lively
+ennoble : be more noble
+escalate : increase
+expand : increase
+extend : be longer
+fan : increase
+fatten : become fatter
+fortify : be stronger or more effective
+heighten : become higher
+hike : increase
+hone : become sharper
+increase : increase
+inflame : become more violent
+inflate : inflate
+intensify : become more intense
+lengthen : become longer
+magnify : appear larger
+mark (up) : increase
+maximize : increase to maximum
+multiply : multiply
+prolong : become longer in time
+push (up) : increase
+quadruple : increase four times
+quicken : become quicker
+raise : increase
+ream : become larger
+redouble : increase greatly
+reflate : increase in money supply
+reinforce : become stronger
+rev : increase in speed
+revalue : increase in value
+scale (up) : increase
+send (up) : increase
+soup (up) : increase in power
+steepen : be steeper
+step (up) : increase
+stimulate : become more active
+strengthen : become stronger
+stretch : stretch
+supercharge : increase in power
+swell : increase
+treble : increase three times
+triple : increase three times
+up : increase
+vulcanize : strengthen
+whet : become sharper
+widen : become wider
+allay : decrease
+alleviate : decrease
+assuage : decrease
+atrophy : weaken
+attenuate : decrease
+beggar : become poor
+blunt : decrease
+blur : become less clear
+brake : slow down or stop
+cheapen : become cheaper
+constrict : be narrower or tighter
+contract : become smaller
+curtail : decrease
+cut (back) : decrease
+damp (down) : burn more slowly
+damp : sound softer
+dampen : decrease
+de-escalate : decrease
+deaden : decrease
+debase : have lower value
+decelerate : decelerate
+decompress : be less compressed
+decrease : decrease
+deflate : become smaller
+defuse : be less harmful
+demotivate : be less motivated
+deplete : decrease
+depopulate : be less populated
+depress : decrease
+depressurize : have less pressure
+desensitize : be less sensitive
+destabilize : be less stable
+devalue : have less value
+devitalize : have less power or strength
+dilute : be dilute
+diminish : decrease
+downsize : be smaller
+dull : become dull
+ease : become less anxious
+ease : become less severe
+emasculate : weaken
+extenuate : decrease
+foreshorten : appear shorter
+halve : decrease by half
+knock (off) : decrease
+lessen : decrease
+lighten : become lighter
+loosen : become less controlled
+lower : decrease
+minimize : decrease
+mitigate : decrease
+moderate : decrease
+mollify : become less angry
+muffle : be softer
+narrow : be within a smaller range
+narrow : become narrower
+palliate : have less unpleasant effect
+reduce (+to) : be reduced to
+reduce : decrease
+rein (in) : go more slowly or be less
+relieve : decrease
+retard : be slower
+salve : be less painful
+sap : decrease
+scale (down) : decrease
+shorten : become shorter
+shrink : become smaller
+shrivel : shrivel
+slacken : become slack
+slash : decrease
+slim : decrease
+slow : become slower
+soft-soap : be less angry
+soften (up) : become weaker
+soothe : be less angry
+taper : taper
+telescope : become shorter
+thin : become thinner
+tone (down) : decrease in violence or
+forcefulness
+truncate : be shorter
+turn (down) : decrease
+undermine : weaken
+weaken : become weaker
+whittle : decrease
+wither : wither
+advance : improve
+age : improve in taste
+ameliorate : improve
+amend : improve
+beef (up) : improve
+better : improve
+canonize : become a saint
+civilize : become civilized
+civilize : become more developed
+clean : become clean
+cleanse : become clean
+cleanse : become pure
+consolidate : consolidate
+cure : be healthy
+cure : heal
+develop : develop
+elevate : be finer or more educated
+elevate : have a higher rank
+enrich : improve in quality
+enthrone : be on the throne
+fine : become pure and clear
+fine : improve
+foster : develop
+further : advance
+heal : heal
+improve : improve
+optimize : be as effective as possible
+ordain : become a priest
+polish (up) : improve
+promote : have a higher rank
+purify : become pure
+refine : become pure
+reform : improve
+render (down) : become pure
+touch (up) : improve
+upgrade : have a higher rank
+abrade : wear away
+adulterate : become impure
+aggravate : become worse
+alloy : be spoiled
+bastardize : be spoiled
+befoul : become foul with filth
+blemish : be spoiled
+blight : be spoiled
+bollocks (up) : be spoiled
+bugger up : be spoiled
+cock (up) : be spoiled
+complicate : be worse
+compound : be worse
+corrode : become worn away
+corrupt : become morally bad
+corrupt : change for the worse
+cripple : be damaged or weakened
+decay : decay
+decompose : decompose
+deface : be spoiled in appearance
+defile : be impure
+deform : become deformed
+demote : have lower rank
+deprave : be evil in character
+dethrone : be dethroned
+dirty : become dirty
+discommode : have difficulty
+disfigure : be disfigured
+dislocate : be in disorder
+disrupt : be in disorder
+downgrade : have a lower position
+erode (away) : be worn away
+exacerbate : be worse
+foul (up) : be spoiled
+fuck (up) : be spoiled
+impair : become worse
+impede : slow down
+impoverish : be worse
+infect : become infected
+injure : be injured
+louse (up) : be spoiled
+mess (up) : be spoiled
+mire : be caught up in difficulties
+muck (up) : become dirty
+murder : be spoiled
+mutilate : be spoiled
+perish : decay
+pervert : be perverted
+pollute : be polluted
+prejudice (+against;+in_favor_of) : become
+worse
+putrefy : become putrid
+rot : rot
+shit : become dirty
+soil : become dirty
+spoil : be spoiled
+sully : be sullied
+taint : be tainted
+tarnish : tarnish
+upset : be in disorder
+worsen : become worse
+box (in) : be confined to a small space
+chain (+prep;particle) : be restrained with a
+chain
+circumscribe : be limited
+confine (+to) : be limited
+confine : be confined
+cramp : be limited
+curb : be restrained
+fetter : be restricted in movement
+hamper : be limited in movement
+hamstring : be limited in effectiveness
+handcuff : be restrained with handcuffs
+hobble : be restricted in movement
+immure : be confined in prison
+imprison : be confined in prison
+incarcerate : be confined in prison
+inhibit : be restricted
+intern : be confined in prison
+jail : be confined in jail
+keep (in) : stay inside
+limit : be limited to a certain amount
+localize : be limited to a small area
+lock (in) : be confined to an enclosed place
+pen (+in) : be confined
+pen : be confined to a pen
+pen : be confined to a small space
+pin : be unable to move
+pinion : be unable to move
+quarantine : be confined in quarantine
+repress : be held back
+restrict : be limited to a certain amount
+seal (in) : be confined to a place
+tie (down) : be limited in freedom
+truss : be restrained by tying up
+beat (up) : be severely injured
+cripple : be crippled
+harm : come to harm
+hurt : be injured
+injure : be injured
+maim : very severely wounded
+run (down) : be injured
+sting : be wounded or hurt
+traumatize : be wounded
+wing : be wounded in the arm or wing
+bar : be firmly closed with a bar
+barricade : be closed off with a barricade
+block : be blocked
+blockade : be blocked
+bung (up) : be blocked
+clog : become blocked
+close : close
+cork : be closed with a cork
+obstruct : be blocked up
+plug : be blocked
+seal (off) : close tightly
+sew (up) : close
+slam : shut loudly
+stopper : be closed with a stopper
+stuff (up) : be completely blocked
+wall (up) : close with a wall
+airlift (+to) : go to
+airlift : move
+airmail : go by airmail
+air-mail: go by airmail
+attract : come near
+back : go backwards
+bang (prep;particle) : move violently
+bear (prep;particle) : move
+bounce : bounce
+bounce : move with a springing movement
+bring (back) : return
+bring (in) : come in
+budge : move a little
+bundle (prep;particle) : move
+bung : move
+burst (+adj;+prep;particle) : move
+canter : canter
+capsize : capsize
+cart (+prep;particle) : go
+cart : move in a cart
+catapult : move through the air
+channel (+into) : move
+chase (+prep;particle) : leave
+chuck (+prep;particle) : move
+chuck : move through the air
+circulate : circulate
+consign : move
+convulse : shake violently
+crank : move
+dance (+prep;particle) : dance
+deflect : deflect
+deliver (+to) : go
+derail : run off the railway line
+dispatch : go
+divert : change direction
+download : move to another computer
+drag : move
+drain : drain
+draw : move
+drive : travel
+ease (+prep;particle) : move slowly
+edge (+prep;particle) : move slowly
+empty (+prep;particle) : move
+express : go by express mail
+exude : exude
+ferry (+prep;particle) : travel on a ferry
+flap : flap
+flick : move with a light quick sudden
+movement
+flicker : flicker
+fling : move through the air
+flip : spin
+float (+prep;particle) : move on the water or
+in the air
+fly : fly
+forward (+n) : go to
+forward : go
+freight : go as freight
+frighten (+prep;particle) : go
+funnel (+prep;particle) : move
+gallop : gallop
+get (+prep;particle) : move
+goad : move
+hasten : hasten
+haul : move
+heave (+prep;particle) : move through the air
+hump (+prep;particle) : move
+hurl : move through the air
+hurry (+prep;particle) : go quickly
+hurry : hurry
+hustle : hustle
+inch : move slowly
+introduce (+into) : go into
+jar : shake
+jettison : move out
+jig : move up and down
+jiggle : move from side to side
+joggle : joggle
+jolt : jolt
+launch : move
+launch : move into the sky
+lay (off) : leave an employment
+lever (+prep;particle) : move
+lift (+prep;particle) : move
+lob : move through the air
+loose : fly
+lug (+prep;particle) : move
+lure (+prep;particle) : come
+maneuver (+prep;particle) : move
+move : move
+nose (+prep;particle) : move
+nudge (+prep) : move
+overturn : overturn
+pack (+off_to;off) : go
+paddle : move
+pan : move from side to side
+pipe : move through pipes
+pivot : pivot
+plunge (+into) : move suddenly or violently
+plunge (+prep;particle) : move towards
+pop (+prep;particle) : move quickly and
+lightly
+post : go by post
+precipitate (+into) : move forward forcefully
+project : move through the air
+propel : move forward
+race (+prep;particle) : move quickly
+raft : travel on a raft
+recall : return
+relay : go by relay
+remit (+to) : go
+remit : go by post
+retract : retract
+reverse : reverse
+revolve : revolve
+ripple : ripple
+rock : rock
+roll (back) : retreat
+roll : move over and over or from side to
+side
+rotate : rotate
+route (+prep;particle) : travel
+row (+prep;particle) : travel
+run : move quickly or freely
+rush (+prep;particle) : move suddenly with
+great speed
+sail : travel on water
+scroll : move on a screen
+send (+v-ing)
+send (away) : go to another place
+send (in) : go to
+send (off) : go
+send (on) : go
+send (out) : go
+send : go to a place
+shake : move up and down or from side to
+side
+shift : change in position
+ship (+prep) : go to
+ship (+prep;particle) : go to
+ship : go by ship
+shoo : go away
+shunt (+prep;particle) : move
+shunt : move to another track
+shuttle (+prep;particle) : move in shuttle
+slew : slew
+slide : move smoothly over a surface
+sling (+prep;particle) : move through the air
+snake (+prep;particle) : move in a twisting
+way
+spin : spin
+spoon (+prep;particle) : move
+stampede : stampede
+suck (+prep;particle) : move
+suck : move into the mouth
+swallow : move down the throat to the
+stomach
+sway : sway
+swing (+prep;particle) : move in a smooth
+curve
+swing : swing
+swirl (+prep;particle) : move quickly with
+twisting turns
+swish : move quickly through the air
+swivel : swivel
+take (+prep;particle) : move
+take : move
+throw (+prep;particle) : move forcefully
+throw : move rapidly through the air
+tip (+prep;particle) : move
+toss : move through the air
+toss : toss
+tow : move
+transfer : move
+transfer : move to another vehicle
+transmit (+to) : pass to
+transplant : move
+transport : move
+trot : trot
+truck (+prep;particle) : move by truck
+trundle (+prep;particle) : move
+turn : change position or direction
+turn : turn
+twirl : twirl
+twitch : twitch
+unload (+from) : move
+unpack : move; have the clothes removed
+unsaddle : move from the saddle
+uproot : leave
+vibrate : vibrate
+waft (+prep;particle) : move lightly on the
+wind or waves
+waggle : waggle
+walk (+prep;particle) : move like walking
+wheel : move
+whip (+prep;particle) : move quickly
+whirl (+prep;particle) : move round and
+round very fast
+whirl : move in a hurry
+whisk (+prep;particle) : move quickly
+whisk : move quickly
+wiggle : move from side to side
+withdraw : withdraw
+wobble : wobble
+worm (+into;particle) : move
+zap (+prep;particle) : move quickly
+zip (+prep;particle) : move quickly
+airdrop : drop from an aircraft
+bowl (over) : fall down
+bring (down) : come down
+cast : drop
+chop (down) : fall down
+cut (down) : fall down
+dip : dip
+down : fall down
+drip : drip
+drop : drop
+fell : fall down
+floor : fall down
+get (down) : come down
+lower : go down
+overbalance : overbalance
+parachute (+prep;particle) : drop from an
+aircraft
+parachute : parachute
+poleaxe : fall down
+prostrate : be in a prostrate position
+rain (+prep;particle) : fall like rain
+send (down) : go down
+take (down) : come down
+tip : tip
+topple : topple
+trip : trip
+unhorse : fall from a horse
+unseat : fall from the saddle
+upend : fall down
+upset : fall over
+dart (+prep;particle) : go out suddenly and
+quickly
+dig (out) : come out
+draw (out) : come out
+fish (out) : come out
+gouge (out) : come out
+jet : jet out
+out : go out
+pluck : come out
+pour (+prep;particle) : flow out of or into
+shed : flow out
+slop : spill
+spew (+prep;particle) : come out in a rush
+spill : spill
+spout : come out in a forceful stream
+spray : come out in small drops
+spurt : spurt
+squirt : come out in a thin fast stream
+boost : rise
+fish (up) : come up
+hitch (up) : come upwards
+hoist : rise
+jack (up) : rise
+levitate : rise and float in the air
+lift : rise to a higher level
+raise : rise
+run (up) : rise
+stand : be erect
+uplift : rise high
+winch : rise
+bag : be placed in a bag
+bank : be kept at the bank
+beach : be placed on the beach
+berth : come into a berth
+bottle : be placed in bottles
+bottle : be preserved in bottles
+box : be placed in a box
+bundle (prep;particle) : be stored 
+154
+cage : be kept in a cage
+can : be preserved in cans
+center : be located in the center
+clap (prep;particle) : be placed in
+consign (+prep) : be located
+containerize : be packed in containers
+corral : be located in a corral
+cram (+prep;particle) : be crammed in
+crate : be packed in a crate
+deposit (+prep;particle) : be located
+deposit (+prep;particle) : fall and remain
+dispose (+prep;particle) : be placed on
+dock : be located at a dock
+drop (prep;particle) : be located
+enclose : be inside an envelope
+entomb : be placed in a tomb
+entrain : be placed on a train
+file : be placed in a file
+garage : be kept in a garage
+inject (+into) : be in the body
+input (+into) : be stored
+insert : be inserted
+inset : be placed as an inset
+install (+prep;particle) : be located
+institutionalize : be in an institution
+interpose (+between) : be placed between
+jam (+prep;particle) : placed tightly in
+kennel : be kept in a kennel
+land : land
+lay (+prep;particle) : be located
+locate (+prep;particle) : be located
+lock (away) : be kept in a secure place
+lock : be kept in a safe place
+lodge (+prep;particle) : be located
+maroon : be marooned
+nestle (+prep;particle) : settle
+pack (+prep;particle) : be located
+package : be placed in a package
+park (+prep) : be located
+park (+prep;particle) : be placed
+pasture : be left in a pasture to feed
+perch (+prep;particle) : perch on
+place (+prep;particle) : be located
+plant (+prep;particle) : be located
+plant (+prep;particle) : be placed firmly on
+plonk (+prep;particle) : be placed on
+pocket : be placed in the pocket
+poise (+prep;particle) : be placed on
+position (+prep;particle) : be located
+post (+prep) : be located
+post (+prep;particle) : be posted
+post : be posted
+pot : be located in a pot filled with earth
+put (+prep;particle) : be located
+recess : be located in a recess
+relegate : be located in a worse place
+relocate : be located in a new place
+repose (+on;particle) : be located
+sandwich (+prep;particle) : be placed
+between
+scratch (+on;particle) : be put on
+set (+in) : be located
+set (+on) : attack or chase
+set (+prep;particle) : be located
+settle (+prep;particle) : be located
+settle : settle
+sheathe : be kept in a sheath
+shelve (+prep) : be located
+shove (+prep;particle) : be located
+sit (+prep;particle) : be located
+site (+prep;particle) : be located
+situate (+prep;particle) : be located
+slam (+prep;particle) : be located
+sling (+prep;particle) : to hang
+slot (+prep;particle) : be placed in a slot
+squash (+prep;particle) : be located
+stable : be kept in a stable
+stand (+prep;particle) : be located
+station (+prep;particle) : be located
+store (+prep) : be kept
+stow (+prep) : be kept
+string : be placed on a thread
+tin : be packed in tins
+tuck (+prep;particle) : be located
+dangle : dangle
+drape : hang loosely
+hang : hang
+loll : hang loosely
+string (up) : hang high
+suspend (+from;particle) : hang from
+anoint (+n) : become
+baptize (+n) : become
+canalize : be like a canal
+create (+n) : become
+criminalize : become a criminal
+crown (+n) : become
+curry : become curry
+dub (+n) : become
+ennoble : become a nobleman
+enslave : become a slave
+fanaticize : become a fanatic
+federate : become a federation
+fossilize : become a fossil
+install (+as) : be
+institutionalize : become an institution
+knight : become a knight
+loop : become a loop
+magnetize : become a magnet
+make (+n) : become
+malt : become malt
+martyr : become a martyr
+mineralize : become an ore or mineral
+mummify : become a mummy
+orphan : be an orphan
+outlaw : be an outlaw
+parcel (up) : become a parcel
+queen : become a queen
+concatenate : join together
+connect : be connected
+couple : be joined together
+dovetail : be joined
+engage : engage
+fuse : become joined
+hook (up) : be connected to a power supply
+or central system
+integrate : be joined
+interlace : be joined
+interlink : be joined
+interlock : interlock
+join : be joined
+knot : be joined together
+link : be connected
+network : be connected
+plug (in) : be connected to a power supply
+put (through) : be connected by telephone
+rejoin : be joined again
+solder : be joined or repaired with solder
+splice : be joined together end to end
+weld : be joined
+yoke : be joined
+bind : be fastened
+bind : be tied together
+bond : stick together
+buckle : fasten with a buckle
+button : fasten with buttons
+clasp (+prep;particle) : be fastened
+clip (+prep;particle) : be fastened
+embed (+in) : be embedded in
+fasten : be fastened
+fix (+prep;particle) : be fastened on
+gird : be fastened
+glue : stick
+gum (+prep;particle) : stick
+harness : be fastened to
+hinge : be fixed on hinges
+hitch (+prep;particle) : be fastened to
+hook (+prep;particle) : be fastened on
+lace : be fastened
+lash (+prep;particle) : be fastened
+latch : be fastened
+lock : be fastened
+loop : be fastened
+moor : be fastened
+nail (+prep;particle) : be fastened on
+paste (+prep;particle) : be stuck on
+peg : be fastened with a peg
+pin (+prep;particle) : be fastened with pins
+remount : be fastened on a new piece of
+cardboard
+rivet : be fastened with rivets
+rope (+prep;particle) : be fastened
+screw (+prep;particle) : be fastened with screws
+seal : be fastened
+secure : be fastened
+sellotape : be mended with sellotape
+sew (+prep;particle) : be fastened by stitches
+stake : be fastened to stakes
+staple : be fastened with staples
+stick (+prep) : stick
+strap (+prep;particle) : be fastened
+tack : be fastened with a tack
+tape : be fastened with tape
+tether : be fastened with a tether
+tie (+prep;particle) : be fastened
+tie : be fastened
+wedge : be firmly fixed
+wire : be fastened with wires
+braid : be braided
+entangle : become entangled
+entwine : twist together, round or in
+intertwine : intertwine
+interweave : weave together
+plait : be in plaits
+ravel : ravel
+tangle : tangle
+twine : twist or wind
+twist (together) : be twisted together
+weave (+prep;particle) : be twisted or wound
+wind (+into)
+disconnect : be disconnected
+disengage : come loose and separate
+loose : be unfastened
+unbar : be unfastened
+unbind : be unfastened
+unbuckle : be unfastened
+unbutton : be unfastened
+unchain : be free
+unclip : be unfastened
+uncouple : separate
+undo : be unfastened
+unfasten : be unfastened
+unhook : be unfastened
+unlatch : be unfastened
+unlock : be unfastened
+unloosen : become loose
+unscrew : be undone
+untie : be unfastened
+unwind : be unwound
+unzip : be unfastened
+open (up) : open
+open : open
+reopen : open again
+throw (open) : be open to the public
+unbar : be open
+uncork : be open
+unfold : open
+unfurl : open
+unplug : be disconnected; be opened by
+removing a plug
+unroll : open
+unseal : open
+unstop : be open
+amputate : be separated from the rest
+balkanize : separate into smaller units
+bisect : be separated into two parts
+blast (+prep) : break up
+break : break
+chip : be in small pieces
+chop (up) : be in small pieces
+cleave : separate
+cream : be reduced to a thick soft mixture
+crumble : break into very small pieces
+crush : break into a powder
+cube : be in small cubes
+curtain (off) : be separated
+cut (+prep;particle) : be separated
+cut (off) : be separated
+cut (out) : be separated
+cut (up) : be in little pieces
+decollectivize : no longer be a collective
+decompose : separate into parts
+demobilize : leave military service
+departmentalize : separate into departments
+detach : be separated
+dice : be in small square pieces
+diffract : separate into the spectrum
+dig : break up
+disperse : disperse
+dissipate : dissipate
+dissolve : dissolve
+divide : separate into groups or parts
+explode : explode
+extract : be taken out
+fence (off) : be separated
+fragment : break into fragments
+grind : be reduced to small pieces or powder
+form
+halve : be separated into halves
+have (out) : be taken out
+isolate : be isolated
+leach : separate
+liquidize : be reduced to a liquid form
+lobotomize : have a lobe of the brain
+separated
+mangle : be torn to pieces
+mark (off) : become a separate area
+mash : be reduced to a soft substance
+mince : be in very small pieces
+modularize : separate into modules
+part : separate
+partition : be separated into parts
+partition (off) : become separate
+plough : break up and turn over
+polarize : be separated into groups
+pound : be reduced to a soft mass or powder
+pulverize : be reduced to a powder form
+puree : be reduced to a puree
+quarter : be separated into four parts
+regionalize : separate into regions
+rend : split
+rip (up) : be torn into pieces
+rip : be torn
+rope (off) : be separated
+scarify : break up
+sectorize : be separated into sectors
+segment : be separated into segments
+separate : separate
+sever : be separated
+shatter : break suddenly into very small
+pieces
+shred : be torn into shreds
+slice : be in slices
+smash : break into pieces violently and
+noisily
+snap : break suddenly and sharply into two
+parts
+splinter : break into small sharp-pointed
+pieces
+split : separate into parts
+split : split
+square : be divided into squares
+subdivide : be divided
+sunder : sunder
+take (apart) : separate into pieces
+tear : be torn
+tear (+prep;particle) : be torn
+touch (off) : explode
+unravel : unravel
+uproot : be torn out of the earth
+wall (off) : be separated
+zone : be separated into zones
+break : break
+burst : burst
+bust : break
+crack : break
+crack : break
+crash : crash
+crash-land : crash
+crumple : crumple
+crush : break
+damage : be damaged
+fracture : fracture
+lacerate : be torn
+mutilate : be seriously damaged
+rupture : rupture
+squash : be squashed
+stave (in) : break inwards
+vandalize : be damaged
+bail (out) : be released
+disentangle : be free
+emancipate : become free
+enfranchise : be free
+exorcize : leave, be free of an evil spirit
+extricate : be free
+free : be free
+free : be set free
+liberate : be free
+parole : be free on parole
+ransom : be set free
+release : go free
+rescue : be set free
+unleash : be free from control
+unloose : be unrestrained
+unshackle : be free
+untangle : be untangled
+immunize : be immune against disease
+protect : be safe
+safeguard : be free or safe
+save : be safe
+screen : be sheltered or protected
+secure : be safe
+shade : be sheltered from light or heat
+shelter : be sheltered
+vaccinate : be immune
+defer : be delayed
+delay : be delayed
+hold (over) : be delayed
+hold (up) : be delayed
+postpone : be delayed
+put (back) : be delayed
+put (off) : be delayed
+deprive (+of) : lose
+dispossess : lose their property
+do (+out_of) : lose
+fool (+out_of) : lose
+lose (+n) : lose
+relieve (+of) : be free of
+aggregate : gather into a group or mass
+assemble : gather
+bunch : gather into bunches
+cartelize : form a cartel
+clump : gather into a clump
+cluster : gather or grow in clusters
+collect : gather to form a group or mass
+collectivize : form a collective
+combine : unite
+concentrate (+prep;particle) : gather in one
+place
+confederate : combine in a confederacy
+conflate : combine
+conjoin : unite
+consolidate : merge
+convene : meet together
+convoke : meet together
+drift : pile up
+factionalize : form factions
+federalize : unite under a federal government
+group : gather into groups
+herd (+prep;particle) : gather in a large
+group
+league : unite
+merge : merge
+muster : gather
+parade : gather together in a parade
+rally : rally
+re-form : form again
+regroup : gather into groups again
+reunite : unite again
+round (up) : gather
+stack : form a stack
+syndicate : form into a syndicate
+unify : unite
+unite : unite
+attire : wear
+bridle : wear a bridle
+doll (up) : be dressed up
+dress (+prep) : wear
+dress : wear clothes
+garland : wear a garland
+harness : wear a harness
+muzzle : wear a muzzle
+rig (+out) : wear special clothes
+robe : wear a robe
+saddle : wear a saddle
+shoe : wear a horseshoe
+slip (on) : be worn
+throw (on) : be worn
+correct : be set right
+mend : be repaired
+recondition : be back in working order
+reconstitute : be back in its former condition
+rectify : be set right
+redeem : be back in favor
+redress : be set right
+rehabilitate : be back in good condition
+rehabilitate : be rehabilitated
+reinstate : be back in a former position
+remedy : be set right
+renovate : be back in good condition
+repair : be set right
+repair : work again
+reset : be back in place again
+restore : be back in a former situation
+restore : be back in existence
+resurrect : be back in existence
+right : be upright again
+straighten (out) : be set right
+alter : be castrated
+castrate : be castrated
+doctor : be unable to breed
+emasculate : be castrated
+geld : be castrated
+spay : be castrated
+enact : become law
+legalize : become legal
+legitimize : be legitimate
+legitimize : become legal or acceptable
+ratify : be official
+regularize : become legal and official
+validate : become valid
+atomize : become minute particles or a fine
+spray
+carbonize : change into carbon
+clot : form into clots
+coagulate : solidify
+condense : become liquid
+congeal : become thick or solid
+crystallize : form crystals
+curdle : form into curd
+degrade : change to a lower or simpler kind
+distil : be distilled
+emulsify : become an emulsion
+evaporate : vaporize
+ferment : ferment
+freeze : harden
+ionize : ionize
+liquefy : become liquid
+melt (down) : melt
+melt : melt
+ossify : change into bone
+petrify : turn into stone
+plasticize : become plastic
+pulp : become pulp
+smelt : melt
+solidify : become solid
+sublimate : change into gas and back to solid
+thaw : thaw
+transmute : change into another substance
+vaporize : vaporize
+vitrify : change into glass
+acculturate : change
+adapt : adapt
+adjust : change
+alter : become different
+amend : be changed
+change : change
+convert (+to;+into) : change into
+fluctuate : fluctuate
+metamorphose : metamorphose
+modify : change slightly
+remodel : change shape
+revamp : have a new form or structure
+revolutionize : completely change
+skew : be not straight or not exact
+transform : change completely
+transmogrify : change complete
+turn (+prep;particle) : change to
+aim (+at) : aim at
+align (+with) : come into the same line as
+align : become aligned
+angle : be at an angle
+arrange : be in a particular order
+array : be set in order
+cant : slope or lean
+cock : be erect
+disarrange : be untidy
+dislocate : be dislocated
+disorder : be in a state of disorder
+invert : be inverted
+jumble : be mixed in disorder
+muddle : be in disorder
+muss : untidy
+permute : be in a different order
+picket (+prep;particle) : be in position as
+pickets
+plaster (+prep;particle) : lie flat or stick to
+another surface
+point (+at;+towards) : point at
+rearrange : be in a different order
+rumple : become disarranged
+slant : slope
+string (out) : be in a line
+target (+at;+on) : aim at
+tilt : tilt
+transpose : be in reverse order
+tousle : be untidy
+twist : twist
+arch : become an arch
+bend : become bent
+buckle : become bent
+coil : wind round
+crook : be bent
+curl : form curls
+curve : curve
+distort : be distorted
+double : be folded in half
+fold : be folded
+frizz : go into tight short curls
+furl : fold up
+perm : have a perm
+straighten : become straight
+unbend : become straight
+warp : warp
+conjure : appear
+disinter : be uncovered
+materialize : materialize
+reveal : be seen
+unearth : be uncovered
+unfold : unfold
+unsheathe : uncovered or removed from a sheathe
+unveil : be uncovered
+unwrap : be revealed
+blot (out) : be difficult to see
+blur : become difficult to see
+bury : be buried
+conceal : be hidden
+obliterate : be not seen
+screen : be hidden from view
+secrete : be hidden
+submerge : be covered or hidden
+accustom : become accustomed
+acidify : become acidic
+actualize : become actual
+age : become old
+americanize : become American
+anglicize : become English
+anneal : become hard
+bake : become cooked
+bake : become hard
+bankrupt : become bankrupt
+barbarize : become cruel
+beautify : become beautiful
+blow-dry : become dry
+bone : become stiff
+brighten : become bright
+broil : be very hot
+brutalize : become brutal
+bureaucratize : be bureaucratic
+calcify : become hard
+calm : become calm
+cement : be firm
+chafe : become sore or worn
+chap : become sore and cracked
+chill : become cold
+clarify : become clear
+clean (out) : clean and tidy
+clear : become clear
+cloud : become less clear
+coarsen : become coarse
+complete : be complete
+condense : become thicker
+consecrate : become holy
+cool : become cool
+crisp : become crisp
+damp : be damp
+dampen : become damp
+darken : become dark
+decolonize : be politically independent
+dehydrate : be completely dry
+delegitimize : become legitimate
+democratize : become democratic
+demystify : less mysterious
+desiccate : dry
+dim : become dim
+disconnect : be disconnected
+drain : drain
+drench : be thoroughly wet
+dry : be dry
+dry : become dry
+elasticize : be elastic
+empty : become empty
+enrich : become rich
+etherialize : be ethereal
+falsify : become false
+fill (+adj) : be
+fireproof : become fireproof
+firm : become firm
+flatten : become flat
+flatten : sound flat
+freeze-dry : be dry
+fuzz : be fuzzy
+globalize : become global
+harden : become hard
+heat : become hot
+historicize : become historic
+homogenize : be homogeneous
+humidify : become humid
+ice : become cold
+illegalize : be illegal
+immobilize : be immobile
+impoverish : become poor
+irradiate : become bright
+jazz (up) : become more active, interesting
+or enjoyable
+jolly (up) : become bright and cheerful
+level : become flat
+liberalize : become liberal
+lighten : become brighter
+loosen : become loose
+macerate : become soft
+marginalize : be marginal
+marry (off) : be married
+mature : become mature
+mellow : become mellow
+modernize : become modern
+moisten : become moist
+moisturize : be moist
+neaten : be neat
+normalize : become normal
+oxidize : become rusty
+passivize : become passive
+pauperize : become poor
+perfect : become perfect
+plump (up) : become rounded and soft
+polarize : be polarized
+polish : be polished
+popularize : become popular
+preheat : be hot
+prettify : become pretty
+protract : last longer in time
+radicalize : be radical
+rationalize : be more modern and effective
+ripen : ripen
+roboticize : be automatic
+robotize : be automatic
+roughen : become rough
+round : become round
+rub (+adj)
+ruralize : be rural or have a rural appearance
+rustproof : be rustproof
+sanctify : holy
+sand : be smoother
+sanitize : be less unpleasant
+saturate : be wet
+scorch : be dry
+secularize : become secular
+send (+adj;+prep;particle)
+sensitize : be sensitive
+set (+adj;particle)
+shadow : be dark
+shake (+adj) : become dry
+sharpen : become sharp
+simplify : become simpler
+sleek : become sleek
+slick (down) : become smooth and shiny
+smear : be unclear
+smooth : become smooth
+soften : become soft
+soundproof : become soundproof
+sour : become sour
+stabilize : become stable
+steady : become steady
+sterilize : be sterile
+stiffen : become stiff
+still : become still
+streamline : be more simple and effective
+supercool : cool below freezing point
+without solidifying
+tart (up) : become more attractive
+tauten : become taut
+tenderize : become tender
+thicken : become thick
+tidy : become tidy
+tighten : become tight
+toast : become warm
+toughen : become tough
+turn (+adj)
+unify : be uniform
+unravel : become clear
+update : become modern or up-to-date
+warm (over) : be warm
+warm (up) : be warm
+warm : become warm
+waterproof : become waterproof
+weatherproof : become weatherproof
+wet : become wet
+zip (+adj) : be
+acclimatize : acclimatize
+advantage : have an advantage or benefit
+afforest : be planted with trees
+alienate : change ownership
+attach (+to) : a member of a group
+automate : be automated
+balance : balance
+boil : boil
+calibrate : be calibrated
+christen (+n) : have the name
+circulate : circulate
+civilianize : be under civilian control
+compost : become compost
+compress : be compressed
+computerize : use a computer
+contort : contort
+cross-fertilize : be fertilized
+crossbreed : crossbreed
+decentralize : be decentralized
+decide : decide
+declassify : be not a secret anymore
+defeminize : be without feminine characteristics
+demilitarize : not to have a military
+character
+denationalize : be not owned by the
+government
+denuclearize : be without nuclear armaments
+depoliticize : not have a political character
+detonate : detonate
+diffuse : diffuse
+disguise : change the appearance or character
+disqualify (+for;+from) : be unsuitable or unable to
+disunite : be in a state of disunity
+diversify : be diversified
+domesticate : be domesticated
+domesticate : be domesticated
+dose : take medicine
+dovetail : dovetail
+dwarf : not grow properly
+electrify : be run by electricity
+embarrass : have difficulties with money
+embroil : be embroiled
+endanger : be in danger
+enlist : enlist
+entitle (+n) : have title
+excommunicate : be no longer a member of the church
+exercise : exercise
+expedite : go faster
+facilitate : be easier
+fade : fade
+feminize : have feminine characteristics
+fertilize : be fertilized
+fight (off) : keep away
+flare : flare
+flavor : have a flavor
+float : float
+floodlight : be lighted
+fluidize : behave like a fluid
+focus : be focused
+foist (+on) : be suffered for a time by
+fructify : produce fruit
+fructify : produce successful results
+germinate : germinate
+gild : have an attractive appearance
+graft (+onto) : put into a body as a graft
+graze : graze
+ground : ground
+harmonize : harmonize
+hatch : hatch
+hatch : hatch
+head (off) : change direction
+hit (+on;+against) : hit something
+import : come from another country
+industrialize : industrialize
+inflect : change in level
+insinuate (+into) : be accepted into something
+integrate : integrate
+interbreed : interbreed
+internationalize : be under international control
+juice (up) : have more life or excitement
+lend (+n) : have a quality of
+lend (+to) : be a quality of
+let (+in_for) : experience
+let (+in_on) : share a secret
+light : be lighted
+mandate : be under a mandate
+mate : mate
+mete out (+to) : be suffered by
+militarize : have a military character
+mould : fit closely
+name (+n) : have the name
+naturalize : live in a new place
+obfuscate : be difficult to understand
+obtrude : obtrude
+obtrude : stick out
+outface : look away
+overburden : carry too much or do too much work
+overdevelop : be overdeveloped
+package : be in the form of a package
+pair : pair
+parch : parch
+pep (up) : be more active or interesting
+percolate : percolate
+perfume : have a pleasant smell
+perfume : have a pleasant smell
+politicize : have a political character
+pose : pose
+privatize : be not owned by the government
+project : stick out
+pucker : tighten into uneven folds
+quicken : come to life
+ramify : ramify
+reafforest : be planted with trees
+reecho : repeat again
+reelect : be elected again
+refract : change direction
+rehearse : rehearse
+reincarnate : return to life in a new body
+rename : have a new name
+reset : show a different number
+rest : rest on
+rest : take a rest
+retire : retire
+reverse : change position
+scald : be almost boiling
+scorch : be burnt
+sculpture (+into)
+scupper : sink
+scuttle : sink
+shipwreck : suffer shipwreck
+short-circuit : short-circuit
+sidetrack : be sidetracked
+sink : sink
+splash : splash
+splay : spread out
+spread : spread
+sprout : sprout
+stalemate : be in a stalemate
+standardize : be standard
+starch : stiffen
+stare (out) : look away
+starve (+of) : lack
+stifle : stifle
+stink (out) : fill with a bad smell
+strangulate : strangulate
+streamline : be streamlined
+stretch : reach full width or length
+subject (+to) : experience
+superheat : heat beyond boiling point
+without vaporizing
+synchronize : happen at the same time or
+speed
+synchronize : show the same time
+talk (out) : be settled
+tan : change into leather
+taper : taper
+throw (+back_on) : have to depend on
+toast : be toasted
+transfigure : change appearance
+trip : make a mistake
+unionize : become a member of a trade
+union
+upend : stand on end
+urbanize : have urban characteristics
+vote (+prep;particle)
+waste : lose flesh and strength gradually
+water (down) : be diluted with water
+wilt : wilt
+wind : tighten
+work : do work
+wreck : be in a shipwreck
